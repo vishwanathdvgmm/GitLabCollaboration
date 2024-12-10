@@ -1,6 +1,26 @@
+<<<<<<< HEAD
 #include<stdio.h>
+<<<<<<< HEAD
+int main()
+{
+   int a=10, b=20, c;
+   printf("A=%d B=%d", a,b);
+   c=a+b;
+   printf("RESULT=%d",c);
+=======
 int main(){
 	int a,b=10, c=0;
 	a = b/c;
 	printf("division of b and c is: %d" a,);
+<<<<<<< HEAD
+>>>>>>> 2f8c423b6bfd69e5bcf2bd9217b9c10cc21161b0
+=======
+=======
+#include<stido.h>
+int main(){
+       int a,b=25,c=25;
+       a=b+c;
+       printf("addition of b and c :%d",a);
+>>>>>>> sri
+>>>>>>> a21243d85fd0b0a9a503c275d083682a538939a9
 }
