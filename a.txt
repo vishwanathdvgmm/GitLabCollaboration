@@ -15,7 +15,11 @@ printf (c);
   #include<stdio.h>
   #include<math.h>
   int main(){
-          printf("hello hi");
-  }
+	int a=100;
+	int b=sqrt(a);
+	printf("b");
+
+}
+
 
   
