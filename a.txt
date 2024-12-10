@@ -16,7 +16,17 @@ int main(){
   #include<stdio.h>
   #include<math.h>
   int main(){
-          printf("hello hi");
-  }
+	int a=100;
+	int b=sqrt(a);
+	printf("b");
 
-  
+}
+
+
+#include<stdio.h>
+int main(){
+   int a,bmc
+   a=10,b=8;
+   c=a*b;
+   printf(c);
+}
