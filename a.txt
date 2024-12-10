@@ -1,1 +1,6 @@
-
+#include<stido.h>
+int main(){
+       int a,b=25,c=25;
+       a=b+c;
+       printf("addition of b and c :%d",a);
+}
