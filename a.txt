@@ -7,4 +7,13 @@ int main(){
 int main(){
 int c=10+20;
 printf (c);
+
 }
+  
+  #include<stdio.h>
+  #include<math.h>
+  int main(){
+          printf("hello hi");
+  }
+
+  
