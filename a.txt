@@ -22,4 +22,10 @@ printf (c);
 }
 
 
-  
+#include<stdio.h>
+int main(){
+   int a,bmc
+   a=10,b=8;
+   c=a*b;
+   printf(c);
+}
