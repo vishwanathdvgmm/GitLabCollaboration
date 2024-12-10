@@ -6,6 +6,7 @@ int main(){
 	a = 10;
 	b = 20;
 	c = a + b;
+	printf(a,b);
 	printf("The adddition of the numbers is: ", c);
 	return 0;
 }
