@@ -1,8 +1,15 @@
 #include<stdio.h>
+<<<<<<< HEAD
 int main()
 {
    int a=10, b=20, c;
    printf("A=%d B=%d", a,b);
    c=a+b;
    printf("RESULT=%d",c);
+=======
+int main(){
+	int a,b=10, c=0;
+	a = b/c;
+	printf("division of b and c is: %d" a,);
+>>>>>>> 2f8c423b6bfd69e5bcf2bd9217b9c10cc21161b0
 }
