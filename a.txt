@@ -2,3 +2,9 @@
 int main(){
 	printf("Hello World!!");
 }
+
+#include<stdio.h>
+int main(){
+int c=10+20;
+printf (c);
+}
